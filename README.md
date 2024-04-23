@@ -1,4 +1,4 @@
-# JavaScript Algorithms and Data Structures
+# Javascript 算法 JavaScript Algorithms and Data Structures
 
 > 🇺🇦 UKRAINE [IS BEING ATTACKED](https://war.ukraine.ua/) BY RUSSIAN ARMY. CIVILIANS ARE GETTING KILLED. RESIDENTIAL AREAS ARE GETTING BOMBED.
 > - Help Ukraine via:
